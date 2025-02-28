@@ -1,2 +1,2 @@
 Flask
-gunicorn --bind 0.0.0.0:3002 app:app
+gunicorn --bind 0.0.0.0:10000 app:app
